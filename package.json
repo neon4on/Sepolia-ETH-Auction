@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.9"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^3.4.1",
+    "dotenv": "^16.4.5"
+  }
+}
